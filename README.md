@@ -44,10 +44,8 @@
 - Zustand (state management)
 - dayjs
 
-
-
-### Instalasi Backend 
-Clone repositori:
+### Instalation Backend 
+Clone repository:
 ```bash
 git clone https://github.com/IGBagusAryaN/User-Appointment-Management-System.git
 cd backend
@@ -74,7 +72,7 @@ cd frontend
 # Install dependencies
 npm install
 
-# Jalankan frontend
+# Run
 npm run dev
 
 # .env
