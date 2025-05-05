@@ -49,7 +49,7 @@
 ### Instalasi Backend 
 Clone repositori:
 ```bash
-git clone https://github.com/username/nama-repo.git
+git clone https://github.com/IGBagusAryaN/User-Appointment-Management-System.git
 cd backend
 
 
@@ -68,9 +68,7 @@ npm run dev
 ```
 
 ### Instalasi Frontend
-Clone repositori:
 ```bash
-git clone https://github.com/username/nama-repo.git
 cd frontend
 
 # Install dependencies
